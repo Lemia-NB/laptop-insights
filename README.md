@@ -6,7 +6,7 @@ The goal is to help identify which laptop brands offer the best value, understan
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Clean and preprocess real-world laptop data from Kaggle  
 - Analyze brand-wise price trends and specifications  
 - Visualize insights with clear, professional charts  
@@ -14,7 +14,7 @@ The goal is to help identify which laptop brands offer the best value, understan
 
 ---
 
-## 🧩 Dataset
+## Dataset
 **Source:** [Kaggle – Laptop Prices Dataset](https://www.kaggle.com/)  
 The dataset contains information about laptop brands, models, CPU, RAM, graphics, and pricing details.
 
@@ -28,7 +28,7 @@ The dataset contains information about laptop brands, models, CPU, RAM, graphics
 
 ---
 
-## 🧠 Tools & Libraries
+## Tools & Libraries
 - **Python 3.9+**
 - **Pandas** – Data cleaning and analysis  
 - **Matplotlib** & **Seaborn** – Visualization  
@@ -37,3 +37,4 @@ The dataset contains information about laptop brands, models, CPU, RAM, graphics
 Install all dependencies with:
 ```bash
 pip install -r requirements.txt
+
